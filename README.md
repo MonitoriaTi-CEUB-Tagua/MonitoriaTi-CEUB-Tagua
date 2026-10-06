@@ -1,10 +1,11 @@
 <div align="center">
 <H1>GITHUB MONITORES TI CEUB TAGUATINGA</H1>
   
-💻 Monitoria de TI · CEUB Taguatinga. Uma dúvida, uma ideia e um projeto de cada vez.
 ![Monitoria de TI](./assets/monitoria.gif)
 
-🧠 Aprender · 🛠️ Experimentar · 🤝 Colaborar · 🚀 Idealizar
+<strong>💻 Monitoria de TI · CEUB Taguatinga. Uma dúvida, uma ideia e um projeto de cada vez.
+
+🧠 Aprender · 🛠️ Experimentar · 🤝 Colaborar · 🚀 Idealizar</strong>
 </div>
 
 ----
