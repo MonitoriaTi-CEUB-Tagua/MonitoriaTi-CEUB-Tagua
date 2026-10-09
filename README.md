@@ -66,7 +66,7 @@ TI é grande demais para caber em uma única linguagem. Estes são alguns dos as
 Não encontrou o que queria? Sugere! Essa lista é um ponto de partida, e o espaço pode crescer junto com os interesses de quem participa.
 🌱 Estamos construindo este ambiente aos poucos. Os temas acima são possibilidades; os materiais e projetos disponíveis são os que já estiverem publicados nos repositórios.
 
-🗺️ Como funciona este espaço?
+### 🗺️ Como funciona este espaço?
 
 Pense neste perfil como o ponto de encontro. Os repositórios são os lugares onde ficam os materiais e projetos, cada um com sua proposta.
 1. Explore o que já existe. Dê uma olhada nos repositórios e nos destaques do perfil.
